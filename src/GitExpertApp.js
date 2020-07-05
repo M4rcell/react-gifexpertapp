@@ -6,7 +6,7 @@ import { GifGrid } from './components/GifGrid';
 const GitExpertApp = props => {
 
   
-    const [categories, setcategories] = useState(['Hunterx Hunter']);
+    const [categories, setcategories] = useState(['Hunter × Hunter']);
     
 
     
